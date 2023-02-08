@@ -4,6 +4,7 @@
 @media screen and (max-width: 768px){
     body{
         grid-template-columns: 1fr;
+        transition: 1s;
     }
     .menu, .grid-section, .copy{
         grid-column: 1;
